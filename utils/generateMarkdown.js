@@ -54,7 +54,7 @@ function renderLicenseBadge (license) {
   }
 
   function generateBage(license ){
-    return `![badmath](https://img.shields.io/badge/license-${license}-blue.svg)
+    return ` ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
     `
   }
 
